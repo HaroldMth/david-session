@@ -58,7 +58,7 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃HANS_V2 SESSION IS 
+┃HANS MD SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
@@ -68,7 +68,7 @@ router.get('/', async (req, res) => {
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaZDIdxDTkKB4JSWUk1O
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/HansTech2 👈
+Wanna talk to me?👉 https://t.me/HansTechBot 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©* 2024 - 2099 Hans Tech™*
 
